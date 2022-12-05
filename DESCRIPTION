@@ -1,10 +1,10 @@
 Package: escapeR
 Type: Package
-Title: Gamification Tools for R Notebooks
+Title: Gamification Tool Collection for R Notebooks
 Version: 1.0.0
 Author: Denis Royer
 Maintainer: <d.royer@ostfalia.de>
-Description: 
+Description: escapeR is a collection of functions for creating gamified R Notebooks
 License: CC
 Encoding: UTF-8
 LazyData: true
