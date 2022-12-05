@@ -1,0 +1,10 @@
+Package: escapeR
+Type: Package
+Title: Gamification Tools for R Notebooks
+Version: 1.0.0
+Author: Denis Royer
+Maintainer: <d.royer@ostfalia.de>
+Description: 
+License: CC
+Encoding: UTF-8
+LazyData: true
