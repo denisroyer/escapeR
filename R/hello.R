@@ -1,3 +1,6 @@
+library(tidyverse)
+library(qrcode)
+
 # Hello, world!
 #
 # This is an example function named 'hello'
@@ -16,9 +19,6 @@
 hello <- function() {
   print("Hello, world!")
 }
-
-library(tidyverse)
-library(qrcode)
 
 createResultCode <- function(obj, url = "http://r.myasterisk.de/LSG/", suffix = ".html", site = "", debug = FALSE) {
   myHash <- rlang::hash(obj)
