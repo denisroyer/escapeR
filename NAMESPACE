@@ -1,4 +1,3 @@
 exportPattern("^[[:alpha:]]+")
-export(createResultCode)
 import(qrcode)
 import(tidyverse)
