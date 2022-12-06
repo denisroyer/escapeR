@@ -13,7 +13,7 @@ createResultQRCode(
 )
 }
 \arguments{
-\item{obj}{An Oject to be hashed.}
+\item{obj}{An object to be hashed.}
 
 \item{url}{An URL.}
 
